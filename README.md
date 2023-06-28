@@ -1,7 +1,6 @@
 ### Hola, mi nombre es FERNANDO VEGA 👋.
 
-- Desarrollador fullstack.
-- Trabajando actualmente en DevZeros
+- Desarrollador de software
 
 
 <h2>Skills: </h2>
